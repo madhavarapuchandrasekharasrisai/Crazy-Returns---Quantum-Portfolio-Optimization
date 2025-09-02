@@ -63,7 +63,7 @@ streamlit run app.py
 
 📸 Screenshots
 
-(Add your app screenshots here for better showcase)
+(https://github.com/madhavarapuchandrasekharasrisai/Crazy-Returns---Quantum-Portfolio-Optimization/blob/main/home%20page.png)
 
 📚 Roadmap
 
